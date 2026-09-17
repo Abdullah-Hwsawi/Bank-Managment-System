@@ -14,6 +14,8 @@ int main()
         }
     }
 
+	cout << "\n\n\t\tThanks for using our system.\n\n";
+
     return 0;
 
 }
